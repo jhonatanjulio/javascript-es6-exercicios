@@ -1,0 +1,2 @@
+// Toda função declarada no escopo global possui o objeto window como valor do this. Por que acontece isso?
+// R: Porque "window" é um objeto para os navegadores, window possui instâncias para programar para navegadores, portanto, instruções declaradas no escopo global, retornam o this para o objeto pai (que é a instância de qualquer função), que é o window.

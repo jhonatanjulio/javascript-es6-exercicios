@@ -1,0 +1,5 @@
+console.log(nome);
+let nome = 'Flávio';
+
+// O que significa o Temporal Dead Zone? Qual sua relação com o Hoisting?
+// R: TDZ significa estado em que a variável não pode ser acessada, ou que ainda não foi inicializada. Por exemplo, usar o console.log para mostrar uma variável e apenas declarar essa variável na próxima linha, em que gerará um erro se estiver utilizando let ou const. O hoisting é a ação que o interpretador do JavaScript realiza quando vê uma situação como essa citada anteriormente, ele sobe a declaração da variável antes da sua chamada, é por isso que quando esse erro acontece, o interpretador indica que a variável ainda não foi inicializada e não que não foi definida. Porém quando usamos var para esse mesmo exemplo citado no início, o hoisting também acontece, porém, diferentemente do let e do const, o var não indica um erro, ele retorna undefined. O hoisting também acontece com funções, portanto a melhor definição para o hoisting é: a ação de subir todas as declarações do código, sejam ela variáveis ou funções, para o topo do escopo (global ou local).

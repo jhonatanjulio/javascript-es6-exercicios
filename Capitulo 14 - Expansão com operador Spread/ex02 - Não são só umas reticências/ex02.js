@@ -1,0 +1,2 @@
+// Qual a diferença básica entre os operadores Rest e Spread?
+// R: O Rest é utilizado para receber quantidade de valores indeterminados como argumentos de uma função. Já o Spread é utilizado para expandir um tipo de dado iterável como por exemplo: strings, arrays e objetos, e facilitar para processar o tipo de dado em algum outro contexto.
