@@ -1,0 +1,2 @@
+// Em termos simples, explique o que são funções geradoras e como podemos identificá-las.
+// R: Funções geradoras são funções, em que podemos declarar pontos de parada de execução dentro da própria função e executar separadamente cada parte do algoritmo da função geradora. Uma função geradora é identificada por um * após a instrução function ou antes da declaração de sua identificação, ex: "function* teste() {}" ou "function *teste() {}".
