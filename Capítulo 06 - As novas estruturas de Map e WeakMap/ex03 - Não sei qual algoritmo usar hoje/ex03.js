@@ -1,0 +1,2 @@
+// Em que situações devemos usar uma implementação de Map ao invés de uma implementação de objeto literal?
+// R: Em situações em que a ordem de entrada dos objetos for importante para uma iteração. Em que situações que seja necessário que as chaves sejam outro tipo de dado ao invés de string. Em situações em que existem muitos processos de adicionar e remover chaves-valor, cujo os métodos do Map fornecem uma melhor perfomance do que em objetos literais.
