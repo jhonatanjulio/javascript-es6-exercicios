@@ -1,0 +1,2 @@
+// Qual é a principal diferença entre a estruturas de dados Set e WeakSet?
+// R: O que diferencia é na característica do WeakSet de aceitar unicamente e apenas objetos, também na característica de manter uma fraca referência para o trabalho do Garbage Collector, com isso, não existe o método clear que existe no Set, e o WeakSet não é iterável.
