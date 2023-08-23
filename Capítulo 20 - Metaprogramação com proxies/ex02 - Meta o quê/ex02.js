@@ -1,0 +1,2 @@
+// Defina o que é metaprogramação e metaprogramas.
+// R: Metaprogramação é a programação de programas que possuem a capacidade de escrever/manipular outros programas ou a sí próprio (nesse caso o Proxy é uma das ferramentas da metaprogramação.). Um metaprograma é o fruto da metaprogramação. São programas que atuam na criação/manipulação a sí mesmo ou de outros programas, seja por código fonte, binário ou em uma representação abstrata de memória.

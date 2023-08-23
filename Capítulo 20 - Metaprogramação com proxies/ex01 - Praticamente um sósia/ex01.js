@@ -1,0 +1,2 @@
+// Diga, em poucas palavras, o que são Proxies e o que é possível fazer com eles.
+// R: Proxies em javascript são objetos que representam outros objetos. É um objeto intermediário para outro objeto cujo o qual intermedia o acesso à uma propriedade, setar novas propriedades, enumerar propriedades, deletar propriedades e verificar a existência de propriedades.
